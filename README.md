@@ -1,5 +1,5 @@
 # NNproject
-Neural Network Project - VGG16 ile Göğüs Röntgen Görüntülerinden Covid-19 Tespiti 
+Yapay Sinir Ağları Projesi - VGG16 ile Göğüs Röntgen Görüntülerinden Covid-19 Tespiti 
 
 Faydalanılan veri seti:https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
